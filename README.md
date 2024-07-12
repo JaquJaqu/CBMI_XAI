@@ -22,4 +22,4 @@
 [3] P. Lopes, E. Silva, C. Braga, T. Oliveira, and L. Rosado, ‘XAI Systems Evaluation: A Review of Human and Computer-Centred Methods’, Appl. Sci., vol. 12, no. 19, p. 9423, Sep. 2022, doi: 10.3390/app12199423. <br>
 [4] S. Mohseni, N. Zarei, and E. D. Ragan, ‘A Multidisciplinary Survey and Framework for Design and Evaluation of Explainable AI Systems’, ACM Trans. Interact. Intell. Syst., vol. 11, no. 3–4, pp. 1–45, Dec. 2021, doi: 10.1145/3387166. <br>
 [5] E. Cambria, L. Malandri, F. Mercorio, M. Mezzanzanica, and N. Nobani, ‘A survey on XAI and natural language explanations’, Inf. Process. Manag., vol. 60, no. 1, p. 103111, Jan. 2023, doi: 10.1016/j.ipm.2022.103111. <br>
-[6] R. R. Hoffman, S. T. Mueller, G. Klein, and J. Litman, ‘Metrics for Explainable AI: Challenges and Prospects’. arXiv, Feb. 01, 
+[6] R. R. Hoffman, S. T. Mueller, G. Klein, and J. Litman, ‘Metrics for Explainable AI: Challenges and Prospects’. arXiv, Feb. 01, 2019. Accessed: Jul. 16, 2023. [Online]. Available: http://arxiv.org/abs/1812.04608 
